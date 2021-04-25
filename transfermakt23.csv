@@ -1,0 +1,26 @@
+number,name,position,age,nation,team,value
+1,Kylian Mbappé,Centre-Forward,22,France,Paris Saint-Germain,€160.00m
+2,Harry Kane,Centre-Forward,27,England,Tottenham Hotspur,€120.00m
+3,Erling Haaland,Centre-Forward,20,Norway,Borussia Dortmund,€110.00m
+4,Mohamed Salah,Right Winger,28,Egypt,Liverpool FC,€110.00m
+5,Neymar,Left Winger,29,Brazil,Paris Saint-Germain,€110.00m
+6,Jadon Sancho,Right Winger,21,England,Borussia Dortmund,€100.00m
+7,Trent Alexander-Arnold,Right-Back,22,England,Liverpool FC,€100.00m
+8,Sadio Mané,Left Winger,29,Senegal,Liverpool FC,€100.00m
+9,Raheem Sterling,Left Winger,26,England,Manchester City,€100.00m
+10,Kevin De Bruyne,Attacking Midfield,29,Belgium,Manchester City,€100.00m
+11,Bruno Fernandes,Attacking Midfield,26,Portugal,Manchester United,€90.00m
+12,Joshua Kimmich,Defensive Midfield,26,Germany,Bayern Munich,€90.00m
+13,Jan Oblak,Goalkeeper,28,Slovenia,Atlético Madrid,€90.00m
+14,Romelu Lukaku,Centre-Forward,27,Belgium,Inter Milan,€90.00m
+15,Marcus Rashford,Left Winger,23,England,Manchester United,€85.00m
+16,Heung-min Son,Left Winger,28,"Korea, South",Tottenham Hotspur,€85.00m
+17,Ansu Fati,Left Winger,18,Spain,FC Barcelona,€80.00m
+18,João Félix,Second Striker,21,Portugal,Atlético Madrid,€80.00m
+19,Frenkie de Jong,Central Midfield,23,Netherlands,FC Barcelona,€80.00m
+20,Lionel Messi,Right Winger,33,Argentina,FC Barcelona,€80.00m
+21,Alphonso Davies,Left-Back,20,Canada,Bayern Munich,€75.00m
+22,Matthijs de Ligt,Centre-Back,21,Netherlands,Juventus FC,€75.00m
+23,Thibaut Courtois,Goalkeeper,28,Belgium,Real Madrid,€75.00m
+24,Marc-André ter Stegen,Goalkeeper,28,Germany,FC Barcelona,€75.00m
+25,Pedri,Attacking Midfield,18,Spain,FC Barcelona,€70.00m
